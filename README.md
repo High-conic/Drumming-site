@@ -2,8 +2,6 @@
 
 -Drum-Kit-Website
 
--I learned and got a better understanding of how layout of webpages work and how to manipulate them to your taste using CSS.
-
 -Mentor @angelabauer as made all these possible and easy with well guided instructions to help.
 
 ## Welcome! 👋
@@ -24,7 +22,7 @@ Thanks for checking out this site.
 
 ### Overview
 
-A website created to play drums 🥁, think of it as a low budget drum pad😂.
+A website created to play drums 🥁 by tapping on each picture, each picture plays their corresponding sounds when tapped, think of it as a low budget drum pad😂.
 
 ### Screenshot
 
