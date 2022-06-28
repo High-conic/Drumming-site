@@ -1,6 +1,6 @@
-![Design preview for the Drum-Kit site](./design/tinDog%20desktop%20design.png) 
+![Design preview for the Drum-Kit site](./design/Drum%20Kit%20Website.png) 
 
--tindog landing page
+-Drum-Kit-Website
 
 -I learned and got a better understanding of how layout of webpages work and how to manipulate them to your taste using CSS.
 
@@ -8,7 +8,7 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this landing page site.
+Thanks for checking out this site.
 
 ## Table of contents
 
@@ -24,11 +24,11 @@ Thanks for checking out this landing page site.
 
 ### Overview
 
-A landing page dating site but with a twist, which is that it is a dating site for dogs 😊😅
+A website created to play drums 🥁, think of it as a low budget drum pad😂.
 
 ### Screenshot
 
-![A Desktop view of the Drum-kit site](./design/tinDog%20desktop%20design.png)
+![A Desktop view of the Drum-kit site](./design/Drum%20Kit%20Website.png)
 
 ## My process
 
